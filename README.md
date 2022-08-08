@@ -46,6 +46,13 @@ Here are some ideas to get you started:
 
 <br>
 
+### 💬 &nbsp;Favourite quotes
+> You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.
+>
+>— Steve Jobs
+
+<br />
+
 ### 📊 &nbsp;Some interesting stats about my Github
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harrykayneezy&theme=ayu-light&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&stroke=5594F0&sideNums=5594F0&sideLabels=5594F0&border=D0D7DE)](https://git.io/streak-stats)
