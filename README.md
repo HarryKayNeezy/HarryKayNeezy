@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Tech Stack
 - Programing Language: Javascript, Typescript, React, Python 
 - Frontend Development: ReactJS, React hook, Redux, Redux-toolkit, React-query, NextJS, Jquery, Vanilla JS, ES6, SCSS, TailwindCSS, Chakra UI, Bootstrap, Speed Optimization & Security
-- Backend Development: Node.js, Express.js, Sequelize, Docker, Python
+- Backend Development: Node.js, Express.js, Docker, Python, Sequelize
 - Mobile(native) Development: Flutter, Ionic, ReactNative
 - Design(UI/UX): Figma, AdobeXD, Photoshop
 - Database: MongoDB, MySQL, PostgreSQL, Redis
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
       <!-- Build & Bundle Tools: Grunt, Gulp, webpack -->
 - CI/CD Tools: Kubernetes, TravisCI, Circle CI, Github Action, Heroku, Terraform 
 - Testing: Mocha & Chai, Postman, Jest 
-- CS Knowledge: Data Structure & Algorithm, OS, Networking 
+- CS Knowledge: Data Structure & Algorithm, OS, Networking, Deep Learning(Using FastAI) 
       <!-- Project management tools: Jira, Clickup, Notion, Trello -->
 - Git: Bitbucket, Gitlab, Github 
 <br />
