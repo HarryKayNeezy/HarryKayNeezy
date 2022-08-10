@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 - Frontend Development: ReactJS, React hook, Redux, Redux-toolkit, React-query, NextJS, Jquery, Vanilla JS, ES6, SCSS, TailwindCSS, Chakra UI, Bootstrap, Speed Optimization & Security
 - Backend Development: Node.js, Express.js, Sequelize, Docker, Python
 - Mobile(native) Development: Flutter, Ionic, ReactNative
+- Design(UI/UX): Figma, AdobeXD, Photoshop
 - Database: MongoDB, MySQL, PostgreSQL, Redis
 - OS: Linux, macOS, Windows 
 - Cloud: AWS services such as Amazon S3, EC2, Cloudfront, EKS, Cloudformation etc
