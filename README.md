@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 <br />
 
 ### 🛠 &nbsp;Tech Stack
+- Expertise: Full-Stack Web Development, Cloud DevOps(AWS), AWS Solutions Architecture, Software Engineering
 - Programing Language: Javascript, Typescript, React, Python 
 - Frontend Development: ReactJS, React hook, Redux, Redux-toolkit, React-query, NextJS, Jquery, Vanilla JS, ES6, SCSS, TailwindCSS, Chakra UI, Bootstrap, Speed Optimization & Security
 - Backend Development: Node.js, Express.js, Docker, Python, Sequelize
