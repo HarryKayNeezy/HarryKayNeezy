@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 - Backend Development: Node.js, Express.js, Docker, Python, Sequelize
 - Mobile(native) Development: Flutter, Ionic, ReactNative
 - Design(UI/UX): Figma, AdobeXD, Photoshop
+- Design(2d&3D): Blender3D
 - Database: MongoDB, MySQL, PostgreSQL, Redis
 - OS: Linux, macOS, Windows 
 - Cloud: AWS services such as Amazon S3, EC2, Cloudfront, EKS, Cloudformation etc
