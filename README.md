@@ -77,7 +77,7 @@ Here are some ideas to get you started:
       <!-- Build & Bundle Tools: Grunt, Gulp, webpack -->
 - CI/CD Tools: Kubernetes, TravisCI, Circle CI, Github Action, Heroku, Terraform 
 - Testing: Mocha & Chai, Postman, Jest 
-- CS Knowledge: Data Structure & Algorithm, OS, Networking, Deep Learning(Using FastAI) 
+- CS Knowledge: Data Structures & Algorithm, OS, Networking, Deep Learning(Using FastAI) 
       <!-- Project management tools: Jira, Clickup, Notion, Trello -->
 - Git: Bitbucket, Gitlab, Github 
 <br />
