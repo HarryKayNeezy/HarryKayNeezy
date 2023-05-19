@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h2> 
-     Hi there, I'm Harry Kwabena Ablor✌🏾🧑🏾‍💻
+     Hi there, I'm Harry K. A.✌🏾🧑🏾‍💻
   </h2>
 </div>
 
