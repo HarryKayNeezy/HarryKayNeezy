@@ -71,15 +71,15 @@ Here are some ideas to get you started:
 - Mobile(native) Development: Flutter, Ionic, ReactNative
 - Design(UI/UX): Figma, AdobeXD, Photoshop
 - Design(2d&3D): Blender3D
-- Database: MongoDB, MySQL, PostgreSQL, Redis
+- Database: MongoDB, SQL, PostgreSQL, Redis
 - OS: Linux, macOS, Windows 
 - Cloud: AWS services such as Amazon S3, EC2, Cloudfront, EKS, Cloudformation etc
       <!-- Build & Bundle Tools: Grunt, Gulp, webpack -->
 - CI/CD Tools: Kubernetes, TravisCI, Circle CI, Github Action, Heroku, Terraform 
 - Testing: Mocha & Chai, Postman, Jest 
 - CS Knowledge: Data Structures & Algorithm, OS, Networking, Deep Learning(Using FastAI) 
-      <!-- Project management tools: Jira, Clickup, Notion, Trello -->
-- Git: Bitbucket, Gitlab, Github 
+- Project management tools: Jira, Confluence
+- Git:  Github, Gitlab
 <br />
 
 
