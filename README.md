@@ -51,6 +51,14 @@ Here are some ideas to get you started:
 >
 >— Steve Jobs
 
+<br />  
+
+### 🤔 &nbsp;Word of Advice
+> If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science.  
+> Check out this page - [TeachYourselfComputerScience](https://teachyourselfcs.com)
+>
+>— 😇
+
 <br />
 
 ### 📊 &nbsp;Some interesting stats about my Github
