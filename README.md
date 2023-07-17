@@ -53,13 +53,6 @@ Here are some ideas to get you started:
 
 <br />  
 
-### 🤔 &nbsp;Word of Advice
-> If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science.  
-> Check out this page - [TeachYourselfComputerScience](https://teachyourselfcs.com)
->
->— 😇
-
-<br />
 
 ### 📊 &nbsp;Some interesting stats about my Github
 
@@ -122,3 +115,10 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/harry-kwabena-ablor/
 [github]: https://github.com/harrykayneezy
+<br />  
+
+
+
+### 🤔 &nbsp;Misc:
+> If you’re a self-taught engineer or bootcamp grad; check out this page - [TeachYourselfComputerScience](https://teachyourselfcs.com)
+
