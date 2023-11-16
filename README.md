@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![Profile views](https://komarev.com/ghpvc/?username=harrykayneezy)
 
 ### 💻 &nbsp;About Me
-- 🧑🏾‍💻  I am a Software Engineer and an AWS Certified Developer & Azure Certified Cloud Practitioner with a degree in Civil Engineering.
+- 🧑🏾‍💻  I am a Software Engineer and an AWS Certified DevOps Engineer, AWS Certified Developer & Azure Certified Cloud Practitioner with a degree in Civil Engineering.
 - 🔭  Have over 3 years of experience in Software and web development and currently working as an Engineer with BigSpark. I have expertise in Full-Stack Development, Cloud Solutions Architecture and DevOps.
 - 💡  Enthusiastic developer with high flexibility to adapt to the new working environment and have good self-study ability.
 - 🤔 I’m looking to contribute more on open source projects this year and also develop my skills.
