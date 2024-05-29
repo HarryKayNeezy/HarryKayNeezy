@@ -120,8 +120,5 @@ Here are some ideas to get you started:
 
 
 ### 🤔 &nbsp;Misc:
-> If you’re a self-taught engineer or bootcamp grad; check out this pages  
-> - [TeachYourselfComputerScience](https://teachyourselfcs.com)  
-> - [DSA](https://github.com/cjbt/Free-Algorithm-Books/tree/master)   
-> - [System Design](https://github.com/ByteByteGoHq/system-design-101)
+> tbc
 
