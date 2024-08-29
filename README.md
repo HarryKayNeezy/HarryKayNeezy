@@ -44,7 +44,14 @@ Here are some ideas to get you started:
 - 💡  Enthusiastic developer with high flexibility to adapt to the new working environment and have good self-study ability.
 - 🤔 I’m looking to contribute more on open source projects this year and also build more projects.
 
-<br>
+<br />  
+
+### 🗞️ &nbsp;Blog
+- Medium: https://medium.com/@harrykayneezy
+- Hashnode: https://harrykay.hashnode.dev/
+
+<br />
+
 
 ### 💬 &nbsp;Favourite quotes
 > You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - God, your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.
