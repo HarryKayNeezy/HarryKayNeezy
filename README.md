@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ### 📊 &nbsp;Some interesting stats about my Github
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harrykayneezy&theme=ayu-light&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&stroke=5594F0&sideNums=5594F0&sideLabels=5594F0&border=D0D7DE)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=HarryKayNeezy&theme=merko)
 
 ![alt text](https://github-readme-stats.vercel.app/api?username=harrykayneezy&show_icons=true&include_all_commits=true&count_private=true)
 
