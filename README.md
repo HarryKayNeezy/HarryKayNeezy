@@ -70,9 +70,9 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=HarryKayNeezy&theme=merko)
 
-![alt text](https://github-readme-stats.vercel.app/api?username=harrykayneezy&show_icons=true&include_all_commits=true&count_private=true)
+<!-- ![alt text](https://github-readme-stats.vercel.app/api?username=harrykayneezy&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs) -->
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrykayneezy&layout=compact&hide=html" alt="harrykayneezy" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrykayneezy&layout=compact&hide=html,css,scss,ejs" alt="harrykayneezy" /></div>
 
 <br />
 
