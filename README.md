@@ -34,10 +34,11 @@ Here are some ideas to get you started:
   </h2>
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=5594F0&lines=Software%20Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=5594F0&lines=Software%20Engineer%20and%20DevOps%20Engineer)
 
-![Profile views](https://komarev.com/ghpvc/?username=harrykayneezy)
+ <!-- ![Profile views](https://komarev.com/ghpvc/?username=harrykayneezy) -->
 
+<!--
 ### 💻 &nbsp;About Me
 - 🧑🏾‍💻  I am a Software Engineer and an AWS Certified DevOps Engineer, AWS Certified Developer & Azure Certified Cloud Practitioner with a degree in Civil Engineering.
 - 🔭  I have expertise in Full-Stack Development, Cloud Solutions Architecture and DevOps.
@@ -72,6 +73,8 @@ Here are some ideas to get you started:
 
 <!-- ![alt text](https://github-readme-stats.vercel.app/api?username=harrykayneezy&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs) -->
 
+
+<!-- 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrykayneezy&layout=compact&hide=html,css,scss,ejs" alt="harrykayneezy" /></div>
 
 <br />
@@ -88,12 +91,14 @@ Here are some ideas to get you started:
 - OS: Linux, macOS, Windows 
 - Cloud: AWS services such as Amazon S3, EC2, Cloudfront, EKS, Cloudformation; Azure, GCP
       <!-- Build & Bundle Tools: Grunt, Gulp, webpack -->
+ <!--
 - CI/CD Tools: Terraform, Docker, Kubernetes, Github Action, AWS Amplify, AWS CodePipeline, AWS Elastic Beanstalk, TravisCI, Circle CI, , Heroku,  
 - Testing: Postman, Mocha & Chai, Jest 
 - CS Knowledge: Data Structures & Algorithm, OS, Networking, Deep Learning(Using FastAI) 
 - Project management tools: Jira, Confluence
 - Git:  Github, Gitlab
 <br />
+
 
 
 ### 🌐&nbsp;Connect with me:
@@ -115,6 +120,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
  <!-- [<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>][github] -->
+  <!--
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][github]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
 [<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][github]
